@@ -1,0 +1,13 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "Promise in javascript",
+  "main": "index.js",
+  "repository": "https://github.com/Akashaj09/javascriptPromise.git",
+  "author": "Akash",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^12.0.5"
+  }
+}
